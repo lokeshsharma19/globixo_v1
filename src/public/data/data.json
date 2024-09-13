@@ -1,0 +1,85 @@
+{
+  "header": {
+    "title": "Zoloni",
+    "subtitle": "Research & Development",
+    "event": "Bharat Food Tech 2024",
+    "eventLocation": "New Delhi, India",
+    "eventDates": "12th Jul 2024 - 15th Jul 2024",
+    "booth": "Hall-2, Booth 23"
+  },
+  "exhibitorContact": {
+    "name": "Rajesh Kumar",
+    "email": "Rajeshkumar@gmail.com",
+    "number": "+91 8423493148",
+    "address": "B702, Pramukh Plaza, Cardinal Gracious Rd, near Western Express Metro Station, Andheri East, Mumbai, Maharashtra 400059",
+    "website": "http://www.zolonihere.com",
+    "social": {
+      "facebook": "https://facebook.com",
+      "whatsapp": "https://wa.me/9106883315",
+      "twitter": "https://twitter.com",
+      "linkedin": "https://linkedin.com"
+    }
+  },
+  "companyOverview": {
+    "overview": [
+      "lou Farms rvt. Lta. Is a pioneering agricultural company tocused on revolutionizing the tarming industry Established in [Year], our mission is to enhance food security and promote sustainable agricultural practices. We provid my-6e innovative solutions across diverse landscapes, supporting farmers and fostering a robust agricultural ecosystem.",
+      "We empower farmers with advanced tools and techniques, promote eco-friendly farming, and enhance crop yields through innovation. Our services include precision farming, agricultural consultancy."
+    ]
+  },
+  "pastExhibitions": [
+    {
+      "head": "Saudi food Expo",
+      "date": "12 July - 18 July 2024"
+    },
+    {
+      "head": "South Asia food Expo",
+      "date": "12 July - 18 July 2024"
+    },
+    {
+      "head": "Austalia food Expo",
+      "date": "12 July - 18 July 2024"
+    },
+    {
+      "head": "Antartica food Expo",
+      "date": "12 July - 18 July 2024"
+    },
+    {
+      "head": "Austalia food Expo",
+      "date": "12 July - 18 July 2024"
+    }
+  ],
+  "members": [
+    {
+      "name": "Aditi Sharma",
+      "des": "Marketing Head",
+      "num": "+91 9249329469",
+      "email": "Aditi2121@gmail.com"
+    },
+    {
+      "name": "Mehak Sharma",
+      "des": "Marketing Head",
+      "num": "+91 9249329469",
+      "email": "Aditi2121@gmail.com"
+    },
+    {
+      "name": "Akshay Sharma",
+      "des": "Marketing Head",
+      "num": "+91 9249329469",
+      "email": "Aditi2121@gmail.com"
+    }
+  ],
+  "files": [
+    {
+      "name": "File 1",
+      "url": "path/to/file1.pdf"
+    },
+    {
+      "name": "File 2",
+      "url": "path/to/file2.pdf"
+    },
+    {
+      "name": "File 3",
+      "url": "path/to/file2.pdf"
+    }
+  ]
+}
