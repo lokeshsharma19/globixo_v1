@@ -7,11 +7,6 @@
     "eventDates": "12th Jul 2024 - 15th Jul 2024",
     "booth": "Hall-2, Booth 23"
   },
-  "companyBusiness": {
-    "companyTypes": ["Type1", "Type2", "Type3"],
-    "Categories": ["Category1", "Category2", "Category3"],
-    "Items": ["Item1", "Item2", "Item3"]
-  },
   "exhibitorContact": {
     "name": "Rajesh Kumar",
     "email": "Rajeshkumar@gmail.com",
