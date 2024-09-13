@@ -15,7 +15,7 @@ import img2 from "../assets/img-2.png";
 import img3 from "../assets/img-3.png";
 import Member from "../uiComponents/Member.jsx";
 import File from "../uiComponents/File.jsx";
-import data from "../data.json";
+import data from "../lib/data.json";
 
 const Content = () => {
   return (
@@ -130,7 +130,9 @@ const Content = () => {
             return <PastEx heading={item.head} date={item.date} />;
           })}
         </div>
-        <p className=" text-sm text-center underline text-btnColor">Show All</p>
+        <p className=" text-sm text-center underline text-btnColor">
+          <a href="#">Show All</a>
+        </p>
       </div>
       <div className="bg-white rounded-lg text-black p-4 col-span-2 lg:col-span-5 row-span-4">
         <p className="text-black font-semibold my-2">Videos & Images</p>
@@ -160,7 +162,7 @@ const Content = () => {
           })}
         </div>
         <p className=" text-sm text-center mb-1 underline text-btnColor">
-          Show All
+          <a href="#">Show All</a>
         </p>
       </div>
       <div className="bg-white rounded-lg text-black p-4 col-span-2 lg:col-span-5 row-span-4">

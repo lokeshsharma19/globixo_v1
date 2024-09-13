@@ -5,7 +5,7 @@ import LanguageIcon from "@mui/icons-material/Language";
 import LocationOnIcon from "@mui/icons-material/LocationOn";
 import Button from "../uiComponents/Button";
 import Content from "./Content";
-import data from "../data.json";
+import data from "../lib/data.json";
 
 const Body = () => {
   return (

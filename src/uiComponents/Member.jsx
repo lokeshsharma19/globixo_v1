@@ -2,7 +2,6 @@ import React from "react";
 import img from "../assets/profile.png";
 import PhoneIcon from "@mui/icons-material/Phone";
 import MailOutlineIcon from "@mui/icons-material/MailOutline";
-import data from "../data.json";
 
 const Member = ({ name, des, num, email }) => {
   return (
