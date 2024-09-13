@@ -15,7 +15,7 @@ import img2 from "../assets/img-2.png";
 import img3 from "../assets/img-3.png";
 import Member from "../uiComponents/Member.jsx";
 import File from "../uiComponents/File.jsx";
-import data from "../../public/data/data.json";
+import data from "../public/data/data.json";
 
 const Content = () => {
   return (
