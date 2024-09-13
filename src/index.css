@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.blurClass {
+  mask: radial-gradient(
+    circle at 0% 30%,
+    rgb(189, 47, 47) 52%,
+    rgba(255, 255, 255, 0.094) 100%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  background-color: rgb(240, 20, 20) / 30%;
+  backdrop-filter: blur(15px);
+}
+
+.nonBlurClass {
+  mask: radial-gradient(
+    circle at 50% 30%,
+    rgb(189, 47, 47) 100%,
+    rgb(255, 255, 255) 100%,
+    rgb(255, 255, 255) 100%
+  );
+  backdrop-filter: blur(15px);
+}
+@media (max-width: 640px) {
+  .small-screen-mask {
+    mask-image: linear-gradient(black 0%, black 85%, transparent 100%);
+    -webkit-mask-image: linear-gradient(black 0%, black 85%, transparent 100%);
+    backdrop-filter: blur(8px);
+  }
+}
